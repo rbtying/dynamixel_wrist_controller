@@ -33,6 +33,7 @@
 								<option id="de.innot.avreclipse.compiler.option.def.1878899618" name="Define Syms (-D)" superClass="de.innot.avreclipse.compiler.option.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="ARDUINO=105"/>
 								</option>
+								<option id="de.innot.avreclipse.compiler.option.optimize.other.195561529" superClass="de.innot.avreclipse.compiler.option.optimize.other" value="-ffunction-sections -fdata-sections" valueType="string"/>
 								<inputType id="de.innot.avreclipse.compiler.winavr.input.1185569998" name="C Source Files" superClass="de.innot.avreclipse.compiler.winavr.input"/>
 							</tool>
 							<tool id="de.innot.avreclipse.tool.cppcompiler.lib.release.43757151" name="AVR C++ Compiler" superClass="de.innot.avreclipse.tool.cppcompiler.lib.release">
@@ -41,6 +42,7 @@
 								<option id="de.innot.avreclipse.cppcompiler.option.def.1271909377" name="Define Syms (-D)" superClass="de.innot.avreclipse.cppcompiler.option.def" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="ARDUINO=105"/>
 								</option>
+								<option id="de.innot.avreclipse.cppcompiler.option.optimize.other.1731375031" superClass="de.innot.avreclipse.cppcompiler.option.optimize.other" value="-ffunction-sections -fdata-sections" valueType="string"/>
 								<inputType id="de.innot.avreclipse.cppcompiler.input.636113056" superClass="de.innot.avreclipse.cppcompiler.input"/>
 							</tool>
 							<tool id="de.innot.avreclipse.tool.linker.winavr.base.66886251" name="AVR C Linker" superClass="de.innot.avreclipse.tool.linker.winavr.base"/>
